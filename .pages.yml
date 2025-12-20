@@ -2,7 +2,7 @@ media: media
 content:
   - name: posts
     label: Posts
-    format: json
+    format: "json"
     type: collection
     path: '_posts'
     subfolders: false
