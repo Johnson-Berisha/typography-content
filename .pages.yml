@@ -5,6 +5,7 @@ content:
     type: collection
     path: '_posts'
     format: 'json'
+    subfolders: false
     view:
       fields: [ title, published, date ]
     fields:
