@@ -4,6 +4,7 @@ content:
     label: Posts
     type: collection
     path: '_posts'
+    format: 'json'
     view:
       fields: [ title, published, date ]
     fields:
