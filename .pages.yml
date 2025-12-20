@@ -2,9 +2,9 @@ media: media
 content:
   - name: posts
     label: Posts
+    format: json
     type: collection
     path: '_posts'
-    format: 'json'
     subfolders: false
     view:
       fields: [ title, published, date ]
