@@ -23,6 +23,9 @@ content:
       - name: slug
         label: Slug
         type: string
+      - name: category
+        label: Category
+        type: string
       - name: body
         label: Body
         type: rich-text
