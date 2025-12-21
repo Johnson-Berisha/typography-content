@@ -2,6 +2,7 @@
   "published": true,
   "title": "Scale",
   "slug": "scale",
-  "category": "Structure",
-  "body": "# Very cool scale\n\n*   scale useful!\n    \n*   scale nice!\n    \n    > my dad said im smart"
+  "category": "Foundation",
+  "excerpt": "Scale defines the relationship between text sizes. A consistent scale creates rhythm and predictability, while random sizes create noise.",
+  "body": "Headings, subheadings, and body text should follow a clear progression, often based on ratios. Good scale makes content feel intentional and structured. Bad scale makes even good fonts feel wrong."
 }
