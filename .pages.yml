@@ -26,6 +26,9 @@ content:
       - name: category
         label: Category
         type: string
+      - name: excerpt
+        label: Excerpt
+        type: string 
       - name: body
         label: Body
         type: rich-text
