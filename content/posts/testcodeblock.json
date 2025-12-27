@@ -4,5 +4,5 @@
   "slug": "testcodeblock",
   "category": "test",
   "excerpt": "testing code blocks",
-  "body": "```\n<h1>you are very cool</h1>\n```"
+  "body": "```\n:root {\n  --font-size-h1: 1.325rem;\n  --font-size-h2: 1rem;\n  --font-size-h3: 1rem;\n  --font-size-p:  1rem;\n  --font-size-p2: 0.875rem;\n}\n\n/* Usage Example */\nh1 { font-size: var(--font-size-h1); }\np  { font-size: var(--font-size-p); }\n```"
 }
