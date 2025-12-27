@@ -1,0 +1,8 @@
+{
+  "published": true,
+  "title": "Testing code blocks",
+  "slug": "testcodeblock",
+  "category": "test",
+  "excerpt": "testing code blocks",
+  "body": "```\n<h1>you are very cool</h1>\n```"
+}
