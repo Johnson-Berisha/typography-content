@@ -4,5 +4,5 @@
   "slug": "colors3",
   "category": "Foundation",
   "excerpt": "Color in typography isn’t decoration, it’s function. Text color defines priority, mood, and readability. Primary text should always have the highest contrast against the background, while secondary and tertiary text should step down gradually.",
-  "body": "Overusing bright or saturated colors for body text reduces comfort and focus. Good typography uses color to guide the eye, not distract it."
+  "body": "*   Contrast helps readability\n    \n*   Also helps in Hierarchy\n    \n*   It guides attention without extra noise.\n    \n\nOverusing bright or saturated colors for body text reduces comfort and focus. Good typography uses color to guide the eye, not distract it.\n\n```\n:root {\n  --bg: #0b0b0c;\n  --text: #eaeaf0;\n  --muted: #8b8b94;\n  --accent: #ff6f61;\n}\n```\n\nThis is the most simple way of having contrast in a website, we have more detailed contrast Snippets in the Code Snippets app!"
 }
