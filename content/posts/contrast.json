@@ -4,5 +4,5 @@
   "slug": "contrast",
   "category": "Structure",
   "excerpt": "Contrast is what makes text readable and meaningful. This includes color contrast, weight contrast, and size contrast.",
-  "body": "*   Contrast helps readability\n    \n*   Also helps in Hierarchy\n    \n*   It guides attention without extra noise.\n    \n\nEmphasis should be used sparingly to highlight key information. When everything is emphasized, nothing is. Strong typography uses contrast with intention, allowing important content to stand out without shouting."
+  "body": "*   Contrast helps readability\n    \n*   Also helps in Hierarchy\n    \n*   It guides attention without extra noise.\n    \n\nEmphasis should be used sparingly to highlight key information. When everything is emphasized, nothing is. Strong typography uses contrast with intention, allowing important content to stand out without shouting.\n\n```\n:root {\n  --bg: #0b0b0c;\n  --text: #eaeaf0;\n  --muted: #8b8b94;\n  --accent: #ff6f61;\n}\n```"
 }
