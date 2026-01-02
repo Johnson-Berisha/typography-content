@@ -1,0 +1,8 @@
+{
+  "published": true,
+  "title": "Scaling / Font Sizes",
+  "slug": "scaling",
+  "category": "Foundation",
+  "excerpt": "Scale defines the relationship between text sizes. A consistent scale creates rhythm and predictability, while random sizes create noise.",
+  "body": "Headings, subheadings, and body text should follow a clear progression, often based on ratios. Good scale makes content feel intentional and structured. Bad scale makes even good fonts feel wrong.\n\nWhen sizes are consistent, everything looks smooth. Try not to use different size for the same element. Maintain consistency like the example below!"
+}
