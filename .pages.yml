@@ -1,11 +1,11 @@
 media: media
 content:
-  - name: posts
-    label: Posts
+  - name: articles
+    label: Articles
     format: "json"
     filename: '{fields.slug}.json'
     type: collection
-    path: content/posts
+    path: content/articles
     subfolders: true
     view:
       fields: [ title, published, date ]
