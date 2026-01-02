@@ -1,0 +1,8 @@
+{
+  "published": true,
+  "title": "Clamps",
+  "slug": "clamps",
+  "category": "Structure",
+  "excerpt": "Clamps are elite when it comes to UI and typography, It lets text scale with screen size but never get too small or too huge.",
+  "body": "Why it improves UI:\n\n*   Prevents tiny text on phones, massive text on ultrawides\n    \n*   Removes most media queries\n    \n*   Keeps visual hierarchy consisten\n    \n*   Very easily responsive, without the need of @media\n    \n    The way to use clamps is like this:\n    \n    ```\n    font-size: clamp(min, preferred, max);\n    ```\n    \n    Replace min, preferred and max with values that work for your UI and boom!"
+}
